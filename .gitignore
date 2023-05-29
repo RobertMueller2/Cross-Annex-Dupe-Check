@@ -1,0 +1,8 @@
+dupes
+_old
+.dolt
+*.sql
+*.sql.x
+*.keys.txt
+.sqlhistory
+Targets
